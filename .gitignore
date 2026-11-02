@@ -7,3 +7,5 @@ functions/node_modules/
 .firebase/
 serviceAccountKey.json
 scripts/serviceAccountKey.json
+*.zip
+Nova pasta/
