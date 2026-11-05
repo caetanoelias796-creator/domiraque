@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 716f4e7e99357d0ab157a25d7e08b469d5ede7a1 caetanoelias796-creator <caetanoelias796@gmail.com> 1793643529 -0300	reset: moving to origin/main
+716f4e7e99357d0ab157a25d7e08b469d5ede7a1 b4e05e06231e29baa2ffad711380b035a5722144 caetanoelias796-creator <caetanoelias796@gmail.com> 1793643623 -0300	commit: Publicacao completa do site institucional Dom Iraque e workflow GitHub Pages
+b4e05e06231e29baa2ffad711380b035a5722144 f9cee250b4ab7f5462eb4f3e0b52fa14f3a98452 caetanoelias796-creator <caetanoelias796@gmail.com> 1793651809 -0300	rebase (start): checkout origin/main
+f9cee250b4ab7f5462eb4f3e0b52fa14f3a98452 d0f3ef15e6d3988e5c4caaef32d39bc76faf361e caetanoelias796-creator <caetanoelias796@gmail.com> 1793651810 -0300	rebase (pick): Publicacao completa do site institucional Dom Iraque e workflow GitHub Pages
+d0f3ef15e6d3988e5c4caaef32d39bc76faf361e d0f3ef15e6d3988e5c4caaef32d39bc76faf361e caetanoelias796-creator <caetanoelias796@gmail.com> 1793651810 -0300	rebase (finish): returning to refs/heads/main
+d0f3ef15e6d3988e5c4caaef32d39bc76faf361e ef5e9eb5f892a11ebbf0486be935ad77a0b7c0c0 caetanoelias796-creator <caetanoelias796@gmail.com> 1793653630 -0300	commit: Atualizacao e deploy do site Dom Iraque no GitHub Pages
